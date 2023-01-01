@@ -1,0 +1,16 @@
+d fetchcomponents -- Downloads the list of components for an index by parsing Yahoo! Finance web pages.
+d 
+d Program by 
+d Mehmet F. Dicle, Loyola University New Orleans
+d mfdicle@gmail.com
+d
+d fetchcomponents downloads the list of components for an index by parsing Yahoo! Finance web pages.
+d 
+d
+d Created: 19sep2011
+d Updated: 15aug2016
+
+f fetchcomponents.ado
+f fetchcomponents.hlp
+
+
